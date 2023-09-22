@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarsStudent
 - 👀 I’m interested in psychology and coding
-- 🌱 I’m currently learning software developer
+- 🌱 I’m currently learning software development
 - 📫 You can reach me through my email which is: karspostema@gmail.com
 
 <!---

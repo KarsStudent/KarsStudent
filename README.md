@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarsStudent
+- 👋 Hi, I’m @PrettyAlrightPersonSomeDays
 - 👀 I’m interested in psychology and coding
 - 🌱 I’m currently learning software development
 - 📫 You can reach me; Nope cant reach me
